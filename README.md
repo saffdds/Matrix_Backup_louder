@@ -76,4 +76,11 @@ Lo script è open source e leggibile. Non installa nulla, non modifica file di s
 Creato da **saffdds**  
 Per suggerimenti, miglioramenti o segnalazioni, apri una issue su GitHub.
 ## 🌐 Per uno non ha un sito web per scaricarlo ma lo avrà
+## Compatibilità
+
+Lo script è stato sviluppato con **Python 3.13**, ma non utilizza funzionalità esclusive di questa versione.  
+Dovrebbe funzionare correttamente anche con versioni precedenti (es. **Python 3.10+**), ma non è garantito.
+
+Si consiglia di usare Python 3.13 per massima compatibilità.
+
 
